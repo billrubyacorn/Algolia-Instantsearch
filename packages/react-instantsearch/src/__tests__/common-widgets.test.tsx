@@ -263,6 +263,7 @@ const testSetups: TestSetupsMap<TestSuites> = {
       </form>
     );
   },
+  createMenuSelectWidgetTests() {},
 };
 
 const testOptions: TestOptionsMap<TestSuites> = {
@@ -278,6 +279,7 @@ const testOptions: TestOptionsMap<TestSuites> = {
   createHitsPerPageWidgetTests: { act },
   createClearRefinementsWidgetTests: { act },
   createCurrentRefinementsWidgetTests: { act },
+  createMenuSelectWidgetTests: { act, skippedTests: { options: true } },
 };
 
 /**
