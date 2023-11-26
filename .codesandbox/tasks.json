@@ -1,0 +1,123 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "name": "Install Dependencies",
+      "command": "npm install"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "build": {
+      "name": "build",
+      "command": "yarn build",
+      "runAtStart": false
+    },
+    "build:ci": {
+      "name": "build:ci",
+      "command": "yarn build:ci",
+      "runAtStart": false
+    },
+    "doctoc": {
+      "name": "doctoc",
+      "command": "yarn doctoc",
+      "runAtStart": false
+    },
+    "website:storybook": {
+      "name": "website:storybook",
+      "command": "yarn website:storybook",
+      "runAtStart": false
+    },
+    "website:examples": {
+      "name": "website:examples",
+      "command": "yarn website:examples",
+      "runAtStart": false
+    },
+    "lint": {
+      "name": "lint",
+      "command": "yarn lint",
+      "runAtStart": false
+    },
+    "lint:fix": {
+      "name": "lint:fix",
+      "command": "yarn lint:fix",
+      "runAtStart": false
+    },
+    "type-check": {
+      "name": "type-check",
+      "command": "yarn type-check",
+      "runAtStart": false
+    },
+    "type-check:v3": {
+      "name": "type-check:v3",
+      "command": "yarn type-check:v3",
+      "runAtStart": false
+    },
+    "test": {
+      "name": "test",
+      "command": "yarn test",
+      "runAtStart": false
+    },
+    "test:ci": {
+      "name": "test:ci",
+      "command": "yarn test:ci",
+      "runAtStart": false
+    },
+    "test:size": {
+      "name": "test:size",
+      "command": "yarn test:size",
+      "runAtStart": false
+    },
+    "test:exports": {
+      "name": "test:exports",
+      "command": "yarn test:exports",
+      "runAtStart": false
+    },
+    "test:versions": {
+      "name": "test:versions",
+      "command": "yarn test:versions",
+      "runAtStart": false
+    },
+    "test:e2e": {
+      "name": "test:e2e",
+      "command": "yarn test:e2e",
+      "runAtStart": false
+    },
+    "test:e2e:local": {
+      "name": "test:e2e:local",
+      "command": "yarn test:e2e:local",
+      "runAtStart": false
+    },
+    "test:e2e:saucelabs": {
+      "name": "test:e2e:saucelabs",
+      "command": "yarn test:e2e:saucelabs",
+      "runAtStart": false
+    },
+    "test:v3": {
+      "name": "test:v3",
+      "command": "yarn test:v3",
+      "runAtStart": false
+    },
+    "release": {
+      "name": "release",
+      "command": "yarn release",
+      "runAtStart": false
+    },
+    "prepare": {
+      "name": "prepare",
+      "command": "yarn prepare",
+      "runAtStart": false
+    },
+    "prepare-vue3": {
+      "name": "prepare-vue3",
+      "command": "yarn prepare-vue3",
+      "runAtStart": false
+    },
+    "npm start": {
+      "name": "npm start",
+      "command": "npm start",
+      "runAtStart": true
+    }
+  }
+}
