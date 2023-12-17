@@ -1,19 +1,20 @@
 ## Ruby Acorn: Objectives & Accomplishments ##
-My objective was to learn the entire Algolia process. Yes, I wanted to complete the Technical Assignment but I also wanted to learn more.    Below are the questions I had in the beginning and now I feel I have good answers for most of them.
+My objective was to learn the entire Algolia process. From integrating to Ruby Acorn's Shopify website to seeing the Analytics in Algolia.  Understanding Algolia's process is extremely important as an Enterprise Solution Engineer.  We will explain to clients this process and show how Algolia's Analytics and Algolia's NeuralSearch, as a process, will drive X% of revenue growth.  I can see how this works in Algolia.   Hence, why I want to join the Algolia team.
 
-### Objectives ###
-* How easy would it be to integrate with an existing Shopify site?  Extremely easy to integrate with RubyAcorn's Shopify account.  
-* How long to get a working integration live on the site?  Within a few hours I had a working integration live at RubyAcorn.com
+### Questions & Objectives ###
+Below are the questions I had and what I've learned. 
+* **How easy would it be to integrate with an existing Shopify site?**  Extremely easy to integrate with RubyAcorn's Shopify account.  
+* **How long to get a working integration live on the site?**  Within a few hours I had a working integration live at RubyAcorn.com
 
-* What issues would come up?  The product data at Shopify was not normalized enough.  Creating the 15 new metafields in Shopify and then generating that content across the products took quite a bit of time.  Shopify and importing/exporting metafields is not supported.  
+* **What issues would come up?**  The product data at Shopify was not normalized enough.  Creating the 15 new metafields in Shopify and then generating that content across the products took quite a bit of time.  Shopify and importing/exporting metafields is not supported.  
 
-*Ruby Acorn Dataset:*  From the website of RubyAcorn.com, I pulled the product data and normalized the attributes for Algolia. In Shopify, I added 15 Meta product attributes of different types.  Created all the content for the 15 new metafields.  Shopify has limitations on importing/exporting Metafields.  I purchased a tool to speed up this process.
+* **Ruby Acorn Dataset:** From the website of RubyAcorn.com, I pulled the product data and normalized the attributes for Algolia. In Shopify, I added 15 Meta product attributes of different types.  Created all the content for the 15 new metafields.  Shopify has limitations on importing/exporting Metafields.  I purchased a tool to speed up this process.
 
-* Does reconfiguration of the index make sense?  Yes, setting the Sort order was easy.  Ranking Aloglia can only do that on single item fields,
+* **Does reconfiguration of the index make sense?**  Yes, setting the Sort order was easy.  Ranking Aloglia can only do that on single item fields,
 
-* How good is the documentation?  
-* Can I get a working version of the javascript running in a vm code environment?
-* Can I create my own Recommendations and see the results?
+* **How good is the documentation?**
+* **Can I get a working version of the javascript running in a vm code environment?**
+* **Can I create my own Recommendations and see the results?**
 
 ### Ruby Acorn: Backstory ###
 **Who is RubyAcorn?**  My wife Martha runs her own company called Ruby Acorn.  She sells flower bulbs and live plants online. At the moment, only on Etsy:  https://www.etsy.com/shop/MarthasRubyAcorn   I am extremely proud of her and amazed at her success. 
