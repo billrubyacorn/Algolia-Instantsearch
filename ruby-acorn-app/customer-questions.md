@@ -114,7 +114,7 @@ Leo
 
 Hi Leo, 
 
-No, it is not a lot of development work. Algolia was engineered to be easily integrated into your website.   Algolia can be implemented in just four steps.
+No, it is not a lot of development work. Algolia was engineered to be easily integrated into your website.   The high level process is only 4 steps and they are outlined below:
 
 1. Send your data
 The very first step is to send your data to Algolia’s servers - to ensure your users get the fastest search and discovery experience possible. 
