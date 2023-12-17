@@ -74,7 +74,9 @@ Algolia is proud that we partner with our customers. We take the time to explain
 Have a wonderful holiday season.    
 
 Bill Thomas
+
 Enterprise Solutions Engineer
+
 Algolia 
 
 ---
@@ -99,7 +101,9 @@ We look forward to hearing from you.
 
 Happy Holidays,
 Bill Thomas
+
 Enterprise Solutions Engineer
+
 Algolia 
 
 ---
@@ -149,6 +153,8 @@ Thank you for reaching out.  Have a wonderful holiday season.
 
 Cheers,
 Bill Thomas
+
 Enterprise Solutions Engineer
+
 Algolia
 
