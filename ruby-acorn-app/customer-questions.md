@@ -2,7 +2,7 @@
 
 Algolia Team, 
 
-Below are my answers to the customer questions provided.   I did not add markup details since these are email replies. 
+Below are my answers to the customer questions.
 
 Thank You 
 
