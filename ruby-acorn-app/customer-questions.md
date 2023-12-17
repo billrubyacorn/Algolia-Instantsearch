@@ -121,16 +121,16 @@ Hi Leo,
 
 No, it is not a lot of development work. Algolia was engineered to be easily integrated into your website.   The high level process is only 4 steps and they are outlined below:
 
-1. Send your data
+1. **Send your data**
 The very first step is to send your data to Algolia’s servers - to ensure your users get the fastest search and discovery experience possible. 
 
-2. Configure relevance
+2. **Configure relevance**
 The second step is to configure relevance - to give your users the best results for them and for your business. Although Algolia offers incredibly powerful features to fine tune and improve relevance, you just have to configure 2 settings to get started: searchable attributes and custom ranking.
 
-3. Build search UI
+3. **Build search UI**
 The third step is to build the search UI - to provide your users with an awesome interface to search and browse. That can be coded with one of our InstantSearch libraries, which provide fully customizable front-end widgets that you can quickly assemble into a unique search interface. And the InstantSearch library is available for many frameworks: Angular, React, Vue, etc.
 
-4. Iterate
+4. **Iterate**
 Iteration is an important step.  You can use our Analytics to get insights into your search’s performance, to make informed changes. Or automate this process by using our more advanced features, such as our AI suite to release the full potential of Algolia.
 
 Algolia also provides a set of tools that simplify the process of making and integrating a full search experience into your sites and applications. These include:
