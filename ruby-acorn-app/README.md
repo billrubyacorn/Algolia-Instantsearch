@@ -14,9 +14,11 @@ Below are the questions I had and what I've learned.
 
 * **Does reconfiguration of the index make sense?**  Yes, setting the Sort order was easy.  Ranking Aloglia can only do that on single item fields,
 
-* **How good is the documentation?**
-* **Can I get a working version of the javascript running in a vm code environment?**
-* **Can I create my own Recommendations and see the results?**
+* **How good is the documentation?** Yes, the documenation was easy to read and helpful.  It did a good job explaining both the why and how to do things in Algolia.
+  
+* **Can I get a working version of the javascript running in a vm code environment?** Yes, I was able to get a working InstaSearch app called ruby-acorn-app running in Codeio.
+  
+* **Can I create my own Recommendations and see the results?** No, in the Free version of Algolia I cannot create my own recommendations.   In Sitecore Discover, this is a key capabilitiy that drives significant revenue.  Looking forward to discussing Events, Personalizaztion, and how those can drive Recommendations in Algolia. 
 
 ### Ruby Acorn: Backstory ###
 **Who is RubyAcorn?**  My wife Martha runs her own company called Ruby Acorn.  She sells flower bulbs and live plants online. At the moment, only on Etsy:  https://www.etsy.com/shop/MarthasRubyAcorn   I am extremely proud of her and amazed at her success. 
