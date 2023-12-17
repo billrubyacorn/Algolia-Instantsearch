@@ -1,18 +1,15 @@
 ﻿## Customer Responses ##
 
-
 Algolia Team, 
 
-
 Below are my answers to the customer questions provided.   I did not add markup details since these are email replies. 
-
 
 Thank You 
 Bill Thomas
 
 
-Question 1: New to Search
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Question 1: New to Search**
+~~~~
 Hello,
 
 
@@ -105,44 +102,33 @@ Have a wonderful holiday season.
 Bill Thomas
 Enterprise Solutions Engineer
 Algolia 
+~~~~
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Question 2: Dashboard Feedback
+**Question 2: Dashboard Feedback**
 Hello,
 
-
 Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
-
 
 Regards,
 Matt
 
-
 Hi Matt, 
-
 
 We appreciate all feedback, good & bad.  It is important for us to understand what you do not like about the new Dashboard design.    Algolia is always looking to improve.  
 
-
 Regarding your specific issue, clearing and deleting indexes is not something we see being done on an iterative basis.  Normally all edits are done within the index and any changes are immediately displayed.  Algolia is designed with exceptional performance.    
-
 
 If you explain in more detail what you are doing, we may be able to help you with a better process.  Is this part of an existing project?   
 
-
 We look forward to hearing from you. 
-
 
 Happy Holidays,
 Bill Thomas
 Enterprise Solutions Engineer
 Algolia 
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
 
 
 Question 3:  Effort to Integrate
@@ -206,3 +192,4 @@ Cheers,
 Bill Thomas
 Enterprise Solutions Engineer
 Algolia
+~~~~
