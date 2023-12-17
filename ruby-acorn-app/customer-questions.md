@@ -75,6 +75,7 @@ Have a wonderful holiday season.
 Bill Thomas
 Enterprise Solutions Engineer
 Algolia 
+
 ---
 **Question 2: Dashboard Feedback**
 
@@ -99,6 +100,7 @@ Happy Holidays,
 Bill Thomas
 Enterprise Solutions Engineer
 Algolia 
+
 ---
 **Question 3:  Effort to Integrate**
 
