@@ -1,7 +1,7 @@
 ## Ruby Acorn: Alogolia Objectives & Accomplishments ##
 My main objective was to learn the entire Algolia process. From integrating to Ruby Acorn's Shopify website to seeing the Analytics in Algolia.  And I have done this. 
 
-As an Enterprise Solution Engineer it is critical to understand Algolia's entire process.  We will be explaining to clients.  We will show how this process of using Algolia's Analytics and Algolia's NeuralSearch, will drive X% of revenue growth.  Real growth that we can back up after implementation.  It is great to see how this works in Algolia.   Hence, why I want to join the Algolia team.
+As an Enterprise Solution Engineer it is critical to understand Algolia's entire process.  We will be explaining this process to clients.  Showing how this process of using Algolia's Analytics and Algolia's NeuralSearch, will drive X% of revenue growth.  Real revenue growth that we can back up after implementation.  It is great to see how this works in Algolia.   Hence, why I want to join the Algolia team.
 
 ### Questions & Learnings ###
 Below are the questions I had and what I've learned. 
