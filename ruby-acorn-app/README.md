@@ -1,7 +1,7 @@
 ## Ruby Acorn: Objectives & Accomplishments ##
 My objective was to learn the entire Algolia process. Yes, I wanted to complete the Technical Assignment but I also wanted to learn more.    Below are the questions I had in the beginning and now I feel I have good answers for most of them.
 
-###Objectives###
+### Objectives ###
 * How easy would it be to integrate with an existing Shopify site?  Extremely easy to integrate with RubyAcorn's Shopify account.  
 * How long to get a working integration live on the site?  Within a few hours I had a working integration live at RubyAcorn.com
 
