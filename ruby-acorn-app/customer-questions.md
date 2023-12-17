@@ -100,6 +100,7 @@ If you explain in more detail what you are doing, we may be able to help you wit
 We look forward to hearing from you. 
 
 Happy Holidays,
+
 Bill Thomas
 
 Enterprise Solutions Engineer
@@ -152,6 +153,7 @@ Leo it would be great to learn more about your business & objectives.  We can di
 Thank you for reaching out.  Have a wonderful holiday season.    
 
 Cheers,
+
 Bill Thomas
 
 Enterprise Solutions Engineer
