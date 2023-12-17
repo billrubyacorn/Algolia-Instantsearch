@@ -9,6 +9,7 @@ Bill Thomas
 
 
 **Question 1: New to Search**
+
 Hello,
 
 I'm new to search engines, and there are a lot of concepts I'm not educated on. To make my onboarding smoother, it'd help if you could provide me with some definitions of the following concepts:
@@ -76,6 +77,7 @@ Enterprise Solutions Engineer
 Algolia 
 
 **Question 2: Dashboard Feedback**
+
 Hello,
 
 Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
@@ -98,7 +100,8 @@ Bill Thomas
 Enterprise Solutions Engineer
 Algolia 
 
-Question 3:  Effort to Integrate
+**Question 3:  Effort to Integrate**
+
 Hi,
 
 I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high level process look like?
