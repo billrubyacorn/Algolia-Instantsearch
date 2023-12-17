@@ -1,5 +1,5 @@
 ﻿## Customer Responses ##
----
+ 
 Algolia Team, 
 
 Below are my answers to the customer questions.
