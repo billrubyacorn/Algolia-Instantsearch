@@ -7,7 +7,7 @@ Below are my answers to the customer questions provided.   I did not add markup 
 Thank You 
 Bill Thomas
 
-
+---
 **Question 1: New to Search**
 
 Hello,
@@ -75,7 +75,7 @@ Have a wonderful holiday season.
 Bill Thomas
 Enterprise Solutions Engineer
 Algolia 
-
+---
 **Question 2: Dashboard Feedback**
 
 Hello,
@@ -99,7 +99,7 @@ Happy Holidays,
 Bill Thomas
 Enterprise Solutions Engineer
 Algolia 
-
+---
 **Question 3:  Effort to Integrate**
 
 Hi,
